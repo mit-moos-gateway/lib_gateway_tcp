@@ -1,0 +1,15 @@
+/usr/local/lib/libtcp_gateway.so.1.0.0
+/usr/local/lib/libtcp_gateway.so.1
+/usr/local/lib/libtcp_gateway.so
+/usr/local/include/lib_gateway_tcp/tcp_session.h
+/usr/local/include/lib_gateway_tcp/tcp_server.h
+/usr/local/include/lib_gateway_tcp/tcp_client.h
+/usr/local/lib/libtcp_gateway.so.1.0.0
+/usr/local/lib/libtcp_gateway.so.1
+/usr/local/lib/libtcp_gateway.so
+/usr/local/include/lib_gateway_tcp/tcp_session.h
+/usr/local/include/lib_gateway_tcp/tcp_server.h
+/usr/local/include/lib_gateway_tcp/tcp_client.h
+/usr/local/lib/cmake/tcp_gateway/tcp_gatewayTargets.cmake
+/usr/local/lib/cmake/tcp_gateway/tcp_gatewayTargets-release.cmake
+/usr/local/lib/cmake/tcp_gateway/tcp_gatewayConfig.cmake

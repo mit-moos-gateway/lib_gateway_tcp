@@ -1,0 +1,1 @@
+/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libtcp_gateway.so.1 -o libtcp_gateway.so.1.0.0 CMakeFiles/tcp_gateway.dir/src/tcp_client.cpp.o CMakeFiles/tcp_gateway.dir/src/tcp_server.cpp.o CMakeFiles/tcp_gateway.dir/src/tcp_session.cpp.o  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.83.0 /usr/lib/x86_64-linux-gnu/libprotobuf.so /usr/lib/x86_64-linux-gnu/libb64.so 
