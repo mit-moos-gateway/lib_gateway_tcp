@@ -4,9 +4,9 @@ A lightweight TCP client/server library for protobuf-based communication between
 
 Originally adopted from [GobySoft's NETSIM Libraries](https://github.com/GobySoft/netsim) (Toby Schneider) and modified for the MIT Marine Robotics gateway system by Supun Randeni and Michael DeFilippo, MIT Department of Mechanical Engineering.
 
-Used by:
-- [moos-ivp-gateway](https://github.com/mikedef/moos-ivp-gateway) — MOOS-IvP TCP gateway and client
-- [protobuf_client_ros2](https://github.com/mikedef/protobuf_client_ros2) — ROS 2 TCP client node
+Used by: MOOS External Interface (MEI)
+- [moos-ivp-gateway](https://github.com/mit-moos-gateway/moos-ivp-gateway) — MOOS-IvP TCP gateway and client
+- [protobuf_client_ros2](https://github.com/mit-moos-gateway/protobuf_client_ros2) — ROS 2 TCP client node
 
 ---
 
@@ -17,7 +17,7 @@ sudo apt install libboost-all-dev libprotobuf-dev protobuf-compiler libb64-dev
 
 ## Build and Install
 ```bash
-git clone https://github.com/YOUR_ORG/lib_gateway_tcp.git
+git clone https://github.com/mit-moos-gateway/lib_gateway_tcp
 cd lib_gateway_tcp
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
@@ -66,7 +66,7 @@ Then rebuild any consumer packages normally.
 
 The TCP session/client/server code is derived from GobySoft's NETSIM libraries and retains the original copyright. See individual source file headers for full attribution.
 
-Modifications copyright (c) 2022-2025 Massachusetts Institute of Technology.
+Modifications copyright (c) 2022-2026 Massachusetts Institute of Technology.
 Authors: Supun Randeni, Michael DeFilippo
 
 For licensing inquiries: tlo@mit.edu
