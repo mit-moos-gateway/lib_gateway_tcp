@@ -4,7 +4,7 @@ A lightweight TCP client/server library for protobuf-based communication between
 
 Originally adopted from [GobySoft's NETSIM Libraries](https://github.com/GobySoft/netsim) (Toby Schneider) and modified for the MIT Marine Robotics gateway system by Supun Randeni and Michael DeFilippo, MIT Department of Mechanical Engineering.
 
-Used by: MOOS External Interface (MEI)
+Used by: [MOOS External Interface (MEI)](https://github.com/mit-moos-gateway)
 - [moos-ivp-gateway](https://github.com/mit-moos-gateway/moos-ivp-gateway) — MOOS-IvP TCP gateway and client
 - [protobuf_client_ros2](https://github.com/mit-moos-gateway/protobuf_client_ros2) — ROS 2 TCP client node
 
