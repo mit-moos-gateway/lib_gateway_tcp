@@ -1,7 +1,0 @@
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/tcp_gateway.dir
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/edit_cache.dir
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/rebuild_cache.dir
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/list_install_components.dir
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/install.dir
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/install/local.dir
-/home/mikedef/moos_ws/lib_gateway_tcp/build/CMakeFiles/install/strip.dir
